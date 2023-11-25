@@ -1,3 +1,7 @@
 here we learning about bootstrap => {
-    
+    is nice to use to prebuild your website to make fast changes if you like to du it that way
+
+    go get bootstrap on your project you can do it in 2 ways => {
+        https://getbootstrap.com/ and the the 2 cdn link 1 for css and javascript
+    }
 }
